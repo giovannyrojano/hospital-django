@@ -18,5 +18,5 @@ python manage.py runserver
 
 
 API
-/pacient
-/doctor
+* /pacient
+* /doctor
