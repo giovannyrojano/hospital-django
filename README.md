@@ -14,10 +14,9 @@ system in django for pacient
 # Install dependency
 pip install -r requirements.txt
 
-how run server in django:
+# how run server in django
 in folder app
 write
-
 python manage.py runserver
 
 
