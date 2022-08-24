@@ -15,3 +15,8 @@ in folder app
 write
 
 python manage.py runserver
+
+
+API
+/pacient
+/doctor
