@@ -9,6 +9,7 @@ dependency:
 * psycopg2==2.9.3
 * pytz==2022.2.1
 * sqlparse==0.4.2
+* django-cors-headers==3.13.0
 
 how run server in django:
 in folder app
