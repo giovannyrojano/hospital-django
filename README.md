@@ -1,7 +1,7 @@
 # hospital-django
 system in django for pacient 
 
-dependency:
+# dependency
 
 * asgiref==3.5.2
 * Django==4.1
@@ -11,6 +11,9 @@ dependency:
 * sqlparse==0.4.2
 * django-cors-headers==3.13.0
 
+# Install dependency
+pip install -r requirements.txt
+
 how run server in django:
 in folder app
 write
@@ -18,6 +21,6 @@ write
 python manage.py runserver
 
 
-API
+# API
 * /pacient
 * /doctor
